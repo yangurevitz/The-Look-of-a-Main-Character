@@ -1,0 +1,1854 @@
+data/Supporting/Sayuri Ibe.png,Supporting
+data/Main/Mashuranbo.png,Main
+data/Main/Baron Alberto.png,Main
+data/Supporting/Shigeru Fujiki.png,Supporting
+data/Main/Kira Saeki.png,Main
+data/Main/Miki Makimura.png,Main
+data/Main/Hagino Senkouji.png,Main
+data/Supporting/Neo.png,Supporting
+data/Main/Myung Fang Long.png,Main
+data/Supporting/Yumiko Miura.png,Supporting
+data/Main/Kenichi.png,Main
+data/Supporting/Tenka Kumou.png,Supporting
+data/Supporting/Kaolinite.png,Supporting
+data/Supporting/Chuu-tan.png,Supporting
+data/Supporting/Vivian Justine.png,Supporting
+data/Main/Shou Yamato.png,Main
+data/Supporting/Natsuya Kirishima.png,Supporting
+data/Supporting/Michinaga Fujiwara no.png,Supporting
+data/Main/Superbia.png,Main
+data/Supporting/Hansel.png,Supporting
+data/Supporting/Loly Aivirrne.png,Supporting
+data/Main/Aya Komichi.png,Main
+data/Main/Zen.png,Main
+data/Supporting/Bedivere.png,Supporting
+data/Main/Atena Saotome.png,Main
+data/Main/Saiko Tendou.png,Main
+data/Main/Haruhiro.png,Main
+data/Supporting/Henriette Mystere.png,Supporting
+data/Main/Kaoru Kamiya.png,Main
+data/Supporting/Meryl Brown.png,Supporting
+data/Main/Hime Petit.png,Main
+data/Supporting/Ephanatica.png,Supporting
+data/Main/Diego De La Vega.png,Main
+data/Main/Koutarou Kannagi.png,Main
+data/Supporting/Inuyama.png,Supporting
+data/Main/Rulishia.png,Main
+data/Main/Fujio Katakura.png,Main
+data/Main/Shizuma Hanazono.png,Main
+data/Supporting/Takaomi Matsubue.png,Supporting
+data/Main/Chiryuu.png,Main
+data/Supporting/Zhengdong Ye.png,Supporting
+data/Main/Waver Velvet.png,Main
+data/Main/Tachibana.png,Main
+data/Main/Satsuki Toreishi.png,Main
+data/Main/Lag Seeing.png,Main
+data/Supporting/Garack Gazelt.png,Supporting
+data/Supporting/Yuzurina Houshou.png,Supporting
+data/Main/Anzu Mazaki.png,Main
+data/Supporting/Adol Brinberg.png,Supporting
+data/Supporting/Shoko Akimoto.png,Supporting
+data/Supporting/Mitsugu Kageyama.png,Supporting
+data/Main/Masamune Matsuoka.png,Main
+data/Main/Meruru.png,Main
+data/Supporting/Hoshi.png,Supporting
+data/Supporting/Shien Cho.png,Supporting
+data/Main/Touko Sumikaze.png,Main
+data/Supporting/Janta.png,Supporting
+data/Supporting/Shinjo Mikiyasu.png,Supporting
+data/Supporting/Cooks.png,Supporting
+data/Main/Kota Furuya.png,Main
+data/Main/Mikoto Minagi.png,Main
+data/Main/Madoka Yabuuchi.png,Main
+data/Supporting/Mari Aragaki.png,Supporting
+data/Main/Sukeroku Yuurakutei.png,Main
+data/Supporting/Souta Amaya.png,Supporting
+data/Supporting/Kanaka Kagami.png,Supporting
+data/Main/Suomi Kitano.png,Main
+data/Supporting/Youzan Kamiki.png,Supporting
+data/Supporting/Daikichi Nakaoka.png,Supporting
+data/Supporting/Hyogo Kaburagi.png,Supporting
+data/Main/Nijuu Mensou.png,Main
+data/Supporting/Berthier.png,Supporting
+data/Supporting/Mister Mystic.png,Supporting
+data/Main/Mikami Houjou.png,Main
+data/Main/Fubuki Kitakaze.png,Main
+data/Main/Cleopatra Corns.png,Main
+data/Supporting/Rosa Canyon.png,Supporting
+data/Main/Maya.png,Main
+data/Main/Suito Kusanagi.png,Main
+data/Supporting/Jin.png,Supporting
+data/Main/Himari Uesato.png,Main
+data/Main/Asch.png,Main
+data/Main/Rui Chihaya.png,Main
+data/Main/Kakeru Aizawa.png,Main
+data/Supporting/Claude.png,Supporting
+data/Main/Yuusuke Kamoshita.png,Main
+data/Main/Jun Asuka.png,Main
+data/Supporting/Shizuka Hattori.png,Supporting
+data/Main/Hyouka Kizaki.png,Main
+data/Main/Berg Katse.png,Main
+data/Main/Mito Fujimori.png,Main
+data/Main/Rei Kuroki.png,Main
+data/Main/Saiko Yuki.png,Main
+data/Main/Adjust Wrench.png,Main
+data/Supporting/Julius Amidonia.png,Supporting
+data/Supporting/Katsura Fujisawa.png,Supporting
+data/Main/Yuuki Aiba.png,Main
+data/Supporting/Chiyu Tamade.png,Supporting
+data/Main/Taguchi Yesterday.png,Main
+data/Supporting/Yayoi Fushimi.png,Supporting
+data/Supporting/Alex.png,Supporting
+data/Main/Mikaela Hyakuya.png,Main
+data/Main/Jail Murdoch.png,Main
+data/Supporting/Kiyomi Itou.png,Supporting
+data/Main/Musashi Natsuki.png,Main
+data/Supporting/Sayoko.png,Supporting
+data/Main/Akito Takagi.png,Main
+data/Supporting/Sumire Sakurai.png,Supporting
+data/Main/Ai Kodama.png,Main
+data/Supporting/J. Covey.png,Supporting
+data/Supporting/Natsue Awayuki.png,Supporting
+data/Supporting/Hideo Atsugi.png,Supporting
+data/Main/Seiya Kanie.png,Main
+data/Main/Makoto Niijima.png,Main
+data/Supporting/Ran Haitani.png,Supporting
+data/Main/Mai Vlad Transylvania.png,Main
+data/Main/Noboru Takizawa.png,Main
+data/Main/Iku Yuuki.png,Main
+data/Main/Noera.png,Main
+data/Supporting/Azumi Shiratori.png,Supporting
+data/Supporting/Camp Hale.png,Supporting
+data/Supporting/Isshin Arima.png,Supporting
+data/Main/Mylene Hoffman.png,Main
+data/Main/Aki Izayoi.png,Main
+data/Main/Havia Winchell.png,Main
+data/Main/Haruka Takai.png,Main
+data/Supporting/Damuel.png,Supporting
+data/Main/Tomomi Saikyou.png,Main
+data/Main/Ikuyo Suzuki.png,Main
+data/Supporting/Prax Conrad.png,Supporting
+data/Supporting/Ranmaru Fujieda.png,Supporting
+data/Main/Enterprise.png,Main
+data/Main/Gram River.png,Main
+data/Supporting/Nisu no Meo-Eryutoron.png,Supporting
+data/Main/Caramia.png,Main
+data/Supporting/Megumi Wakao.png,Supporting
+data/Supporting/Hatari Naburu.png,Supporting
+data/Main/Bernard Wiseman.png,Main
+data/Supporting/Yuri Maiakofski.png,Supporting
+data/Main/Nao Kaizaki.png,Main
+data/Supporting/Farfarello.png,Supporting
+data/Supporting/Bruno's Mother.png,Supporting
+data/Supporting/Aogiri.png,Supporting
+data/Main/Miho Shinohara.png,Main
+data/Supporting/Eva Heinemann.png,Supporting
+data/Main/Jinzaburou Kuchii.png,Main
+data/Supporting/Kouta's Father.png,Supporting
+data/Supporting/Rea Amano.png,Supporting
+data/Supporting/Yanyan Liu.png,Supporting
+data/Supporting/Anna Heart.png,Supporting
+data/Supporting/Futatsuboshi.png,Supporting
+data/Main/Celcia Marieclaire.png,Main
+data/Supporting/Bui.png,Supporting
+data/Main/Daigo Shigeno.png,Main
+data/Supporting/Oba-chan.png,Supporting
+data/Main/Hime Nonohara.png,Main
+data/Supporting/Dizelmine Fin E Ld Si.png,Supporting
+data/Main/Koto Katakura.png,Main
+data/Main/Fanna.png,Main
+data/Supporting/Ikuya Asano.png,Supporting
+data/Main/Rei Fukai.png,Main
+data/Supporting/Aya Endou.png,Supporting
+data/Main/Nymph.png,Main
+data/Supporting/Latifa.png,Supporting
+data/Main/Kae Serinuma.png,Main
+data/Main/Aki Mizutani.png,Main
+data/Main/Hiroshi Kashiwabara.png,Main
+data/Main/Sakura Deumi.png,Main
+data/Supporting/Sayaka  Arai.png,Supporting
+data/Supporting/Pronyma.png,Supporting
+data/Main/Nemesis.png,Main
+data/Supporting/Anubituf.png,Supporting
+data/Main/Paula.png,Main
+data/Main/M16A1.png,Main
+data/Supporting/Shinji Hachimine.png,Supporting
+data/Supporting/Aran Kokubu.png,Supporting
+data/Supporting/Kazuki Nishina.png,Supporting
+data/Main/Natsuki Souma.png,Main
+data/Main/Shuuya Gouenji.png,Main
+data/Main/Ryoubi.png,Main
+data/Supporting/Bashida.png,Supporting
+data/Main/Miyuki Kobayakawa.png,Main
+data/Supporting/Ooshima.png,Supporting
+data/Main/Takayuki Konparu.png,Main
+data/Main/JP.png,Main
+data/Main/Heidi.png,Main
+data/Main/Nobu Andou.png,Main
+data/Supporting/Oneesan.png,Supporting
+data/Supporting/Kazutoyo Arai.png,Supporting
+data/Supporting/Rina Fujimoto.png,Supporting
+data/Supporting/Natsuki Moriyama.png,Supporting
+data/Main/Limone.png,Main
+data/Main/Haru Chitose.png,Main
+data/Main/Aki Myoujin.png,Main
+data/Supporting/Beoram.png,Supporting
+data/Main/Misaki Nakahara.png,Main
+data/Supporting/Misa Hatori.png,Supporting
+data/Main/Sasha.png,Main
+data/Main/Urtori.png,Main
+data/Supporting/Melopsum.png,Supporting
+data/Supporting/Takekazu Ejiri.png,Supporting
+data/Main/Selizabeth.png,Main
+data/Supporting/Febri.png,Supporting
+data/Main/Lulu Lu Lululu.png,Main
+data/Main/Seira Kamui.png,Main
+data/Main/Arisa Ichigaya.png,Main
+data/Main/Netto Hikari.png,Main
+data/Supporting/Goro Natsume.png,Supporting
+data/Main/Miyabi.png,Main
+data/Supporting/Munehisa Iwai.png,Supporting
+data/Supporting/Jin Aizawa.png,Supporting
+data/Main/Jun Hiiragi.png,Main
+data/Supporting/Older Sister Hino.png,Supporting
+data/Supporting/Toshiya Murata.png,Supporting
+data/Supporting/Mother Kasuga.png,Supporting
+data/Main/Aya Akagi.png,Main
+data/Supporting/Yamanbagiri Kunihiro.png,Supporting
+data/Main/Shun Imaooji.png,Main
+data/Supporting/Itsuki Marude.png,Supporting
+data/Main/Youhei Yamada.png,Main
+data/Main/Machi Tokiwa.png,Main
+data/Supporting/Gori Buchou.png,Supporting
+data/Main/Minami Asaoka.png,Main
+data/Supporting/Irene Ellet.png,Supporting
+data/Main/Yuruko.png,Main
+data/Supporting/Shion Kozakura.png,Supporting
+data/Main/Yuu Kananase.png,Main
+data/Supporting/Jingo Negoro.png,Supporting
+data/Main/Kiichi Gotou.png,Main
+data/Supporting/Ami.png,Supporting
+data/Supporting/Imanishi.png,Supporting
+data/Supporting/Kanade Hokaze.png,Supporting
+data/Main/Melvin Voyager.png,Main
+data/Supporting/Ieyasu Kikuchi.png,Supporting
+data/Supporting/Mother Aiba.png,Supporting
+data/Main/Kirill Vrubel.png,Main
+data/Main/Dorothy.png,Main
+data/Main/Yoshinobu Tokugawa.png,Main
+data/Supporting/Yukiko Miwa.png,Supporting
+data/Supporting/Sasha Dejanstahl Voban.png,Supporting
+data/Main/Akira Fudou.png,Main
+data/Supporting/Kosuke Anayama.png,Supporting
+data/Main/Mizore Yoroizuka.png,Main
+data/Main/Kinichi Itou.png,Main
+data/Supporting/Juushou Akahaji.png,Supporting
+data/Main/Baihua.png,Main
+data/Supporting/Lotton.png,Supporting
+data/Main/Yashiro Isana.png,Main
+data/Main/Olga Discordia.png,Main
+data/Main/Takashi Toono.png,Main
+data/Supporting/Touko Amino.png,Supporting
+data/Main/Najimi Osana.png,Main
+data/Supporting/Annie.png,Supporting
+data/Main/Wolfram von Bielefeld.png,Main
+data/Main/Kanata Akehoshi.png,Main
+data/Supporting/Cameroon.png,Supporting
+data/Main/Christopher Thorndyke.png,Main
+data/Main/Takashi Morinozuka.png,Main
+data/Supporting/Shin Natsume.png,Supporting
+data/Supporting/Hizuru Asuka.png,Supporting
+data/Main/Lafiel Abriel.png,Main
+data/Main/Anne.png,Main
+data/Main/Naomi Sawamura.png,Main
+data/Supporting/Eisen.png,Supporting
+data/Supporting/Maiko Kaji.png,Supporting
+data/Supporting/Takeshi Aiza.png,Supporting
+data/Supporting/Kou Ichijou.png,Supporting
+data/Main/Katsuma.png,Main
+data/Supporting/Hayato Kidokoro.png,Supporting
+data/Supporting/Midori.png,Supporting
+data/Supporting/Blitz T. Abrams.png,Supporting
+data/Main/Nanako Usami.png,Main
+data/Main/Ulbireo Ladnarash.png,Main
+data/Main/Yuu Yagami.png,Main
+data/Main/Yingxiong Ma.png,Main
+data/Main/Ikaros.png,Main
+data/Supporting/Yumi.png,Supporting
+data/Main/Kiku Sarasugawa.png,Main
+data/Main/Do Yun Han.png,Main
+data/Supporting/Akushima.png,Supporting
+data/Supporting/Motoko Kouzuki.png,Supporting
+data/Main/Gonta.png,Main
+data/Supporting/Zixuan Chen.png,Supporting
+data/Supporting/Kasumi Kagami.png,Supporting
+data/Supporting/Execution Division Master.png,Supporting
+data/Supporting/Tatsuya Himekawa.png,Supporting
+data/Main/Aiko Tokosumi.png,Main
+data/Supporting/Nebatakos.png,Supporting
+data/Supporting/Nanoka Aizawa.png,Supporting
+data/Supporting/Hiroshi Chinen.png,Supporting
+data/Main/Hehuan.png,Main
+data/Supporting/Kazuhiko Hasegawa.png,Supporting
+data/Main/Haroma Becker.png,Main
+data/Main/Usagi Tsukino.png,Main
+data/Main/Yoshio Ueno.png,Main
+data/Supporting/Bathyscaphe.png,Supporting
+data/Supporting/Flay Allster.png,Supporting
+data/Main/Oskar von Reuenthal.png,Main
+data/Main/Tooru Amuro.png,Main
+data/Main/Izumi Miyamura.png,Main
+data/Supporting/DJ Leo.png,Supporting
+data/Main/Ye Yan.png,Main
+data/Supporting/Kurumi Kashinoki.png,Supporting
+data/Main/Taihei Doma.png,Main
+data/Main/Margaret March.png,Main
+data/Main/Shoutarou Fuwa.png,Main
+data/Supporting/Gilbert F. Altstein.png,Supporting
+data/Main/Shoutarou Futaba.png,Main
+data/Main/John Estes.png,Main
+data/Main/Maron Namikaze.png,Main
+data/Supporting/Higure Akiyama.png,Supporting
+data/Main/Amy.png,Main
+data/Supporting/Millard Johnson.png,Supporting
+data/Supporting/Haruki Emishi.png,Supporting
+data/Main/Evelyn Celebrian.png,Main
+data/Supporting/Jizou Bosatsu.png,Supporting
+data/Supporting/Tamao Kijima.png,Supporting
+data/Main/Choutarou Ootori.png,Main
+data/Main/Mikoto Suou.png,Main
+data/Main/Ojou.png,Main
+data/Main/Anne Shirley.png,Main
+data/Main/Koji Imai.png,Main
+data/Main/Junya Mochizuki.png,Main
+data/Supporting/Freezen.png,Supporting
+data/Main/Noa Rukina.png,Main
+data/Main/Kouya Onihara.png,Main
+data/Supporting/Natsumi Harie.png,Supporting
+data/Supporting/Furusato.png,Supporting
+data/Main/Sayo Hikawa.png,Main
+data/Supporting/Emiri Kimidori.png,Supporting
+data/Supporting/General Blue.png,Supporting
+data/Supporting/Baldur.png,Supporting
+data/Supporting/Ren Elsie Jewelria.png,Supporting
+data/Supporting/Aota.png,Supporting
+data/Main/Yukari Kotozume.png,Main
+data/Main/Takao Kinomiya.png,Main
+data/Supporting/Isamu Wakabayashi.png,Supporting
+data/Supporting/Mamoru Aoi.png,Supporting
+data/Supporting/Sylvie Dread.png,Supporting
+data/Main/Kiichi.png,Main
+data/Supporting/Asaka Narumi.png,Supporting
+data/Main/Lehm Brick.png,Main
+data/Supporting/Shizuka Kitaumekawa.png,Supporting
+data/Supporting/Kenzou Hakkouda.png,Supporting
+data/Main/Miyako.png,Main
+data/Supporting/Xinglou Fan.png,Supporting
+data/Supporting/Sosogu Hoshifuri.png,Supporting
+data/Main/Tomohisa Harada.png,Main
+data/Main/Nami Yamigumo.png,Main
+data/Supporting/Francisca.png,Supporting
+data/Supporting/Ishimatsu Katori.png,Supporting
+data/Supporting/Dr. K-Ko.png,Supporting
+data/Main/Yoshihide.png,Main
+data/Supporting/Akkie.png,Supporting
+data/Main/Masayoshi Hazama.png,Main
+data/Main/Tomoe Akizuki.png,Main
+data/Supporting/Dirk.png,Supporting
+data/Supporting/Fumihiko Kinosaki.png,Supporting
+data/Main/Naoki Satoya.png,Main
+data/Main/Takada-san.png,Main
+data/Main/Kouko Nosa.png,Main
+data/Supporting/Magane Chikujouin.png,Supporting
+data/Main/Sakyou Furuichi.png,Main
+data/Main/Hayato Marikoji.png,Main
+data/Supporting/Kimata.png,Supporting
+data/Supporting/Mitsuki Mashiba.png,Supporting
+data/Main/Belfast.png,Main
+data/Supporting/Irene Doala.png,Supporting
+data/Main/Tenshirou Okakura.png,Main
+data/Main/Cyadoko Asagiri.png,Main
+data/Supporting/Matsuri Nanase.png,Supporting
+data/Main/Glenda.png,Main
+data/Main/Hildegard von Mariendorf.png,Main
+data/Main/Satoshi Sugiyama.png,Main
+data/Main/Misaki Kirihara.png,Main
+data/Supporting/Ayumi Aida.png,Supporting
+data/Supporting/Geese Howard.png,Supporting
+data/Main/Ryuuta Kodai.png,Main
+data/Supporting/Mr. Big.png,Supporting
+data/Main/Haiji Kiyose.png,Main
+data/Supporting/Tetsunosuke Emori.png,Supporting
+data/Supporting/Kageie Kakizaki.png,Supporting
+data/Main/Gai Kuroki.png,Main
+data/Main/Rem Kaginuki.png,Main
+data/Main/Winry Rockbell.png,Main
+data/Supporting/Diego Jose San Fernando Lovelace.png,Supporting
+data/Supporting/N'duhlle Gilford.png,Supporting
+data/Main/Hiyori Kazane.png,Main
+data/Main/Tabatiere.png,Main
+data/Supporting/Junpei Hyuuga.png,Supporting
+data/Supporting/Adelheid.png,Supporting
+data/Supporting/Hinako Kujou.png,Supporting
+data/Supporting/Daiko Hayami.png,Supporting
+data/Supporting/Tillfur Lilmit.png,Supporting
+data/Main/Dantalion Huber.png,Main
+data/Main/Rinko Shirokane.png,Main
+data/Supporting/Lala Satalin Deviluke.png,Supporting
+data/Main/Suzuno.png,Main
+data/Supporting/An Abe.png,Supporting
+data/Supporting/Amamiya.png,Supporting
+data/Main/Sadaie Fujiwara no.png,Main
+data/Main/Toujin Onodera.png,Main
+data/Main/Mitsuki Kouyama.png,Main
+data/Main/Koharu.png,Main
+data/Supporting/Fukurou.png,Supporting
+data/Main/Goemon Ishikawa XIII.png,Main
+data/Main/Ichika Tachibana.png,Main
+data/Supporting/Asuda Akio.png,Supporting
+data/Supporting/Arisa Kajiwara.png,Supporting
+data/Main/Toyohisa Shimazu.png,Main
+data/Supporting/Bucchi.png,Supporting
+data/Supporting/Kihachi Kusumi.png,Supporting
+data/Main/Misaki Ayuzawa.png,Main
+data/Supporting/Clyde Harlaown.png,Supporting
+data/Main/Go Arisaka.png,Main
+data/Supporting/Laxus Dreyar.png,Supporting
+data/Main/Kiriko Ragawa.png,Main
+data/Main/Ange Kuroki.png,Main
+data/Main/Morgiana.png,Main
+data/Main/Mitsuko Takayanagi.png,Main
+data/Main/Utu.png,Main
+data/Main/Asuka Tsuchimiya.png,Main
+data/Supporting/Tomoe Kashiwaba.png,Supporting
+data/Supporting/Felicia Futakotamagawa.png,Supporting
+data/Supporting/Cordelia gi Randgriz.png,Supporting
+data/Supporting/Misato.png,Supporting
+data/Main/Michele Luio.png,Main
+data/Supporting/Soichi Amami.png,Supporting
+data/Main/Barnaby Brooks Jr..png,Main
+data/Main/Sougo Amagi.png,Main
+data/Supporting/Katsuko Momose.png,Supporting
+data/Main/Toshiya Satou.png,Main
+data/Supporting/Minos.png,Supporting
+data/Supporting/Setsuko Gidou.png,Supporting
+data/Main/Towa Tokoyami.png,Main
+data/Main/Itsuki Noya.png,Main
+data/Main/Popo.png,Main
+data/Main/Yuusei Fudou.png,Main
+data/Supporting/Angira.png,Supporting
+data/Main/Saori Shirakawa.png,Main
+data/Main/Masamichi Haru.png,Main
+data/Main/Azusa B. McLaren.png,Main
+data/Supporting/Admiral Hipper.png,Supporting
+data/Supporting/Hass.png,Supporting
+data/Main/Yousuke Juumonji.png,Main
+data/Supporting/Caron.png,Supporting
+data/Supporting/Amigo.png,Supporting
+data/Main/Strarf Mk.2.png,Main
+data/Supporting/Suzuran Himenohara.png,Supporting
+data/Supporting/Yutaka Honda.png,Supporting
+data/Main/Crusch Karsten.png,Main
+data/Supporting/Chihiro Fushimi.png,Supporting
+data/Supporting/Shura Capricorn.png,Supporting
+data/Supporting/Moeka China.png,Supporting
+data/Main/Ichigo Momomiya.png,Main
+data/Supporting/Koji Kuroki.png,Supporting
+data/Main/Asahi Shiina.png,Main
+data/Supporting/Rose.png,Supporting
+data/Supporting/Yukari Amakawa.png,Supporting
+data/Supporting/Rou Asuka.png,Supporting
+data/Supporting/Leelince.png,Supporting
+data/Main/Panavia Tornado.png,Main
+data/Supporting/Rosa Cheyenne.png,Supporting
+data/Supporting/Jean-Paul Barthez.png,Supporting
+data/Supporting/Aria Link.png,Supporting
+data/Main/Akiteru Ooboshi.png,Main
+data/Main/Amelie Azazel.png,Main
+data/Supporting/Ririka Hanazono.png,Supporting
+data/Supporting/Ekusushia.png,Supporting
+data/Main/Archid Olter.png,Main
+data/Main/Wataru Asahina.png,Main
+data/Main/Kuzuha Doumoto.png,Main
+data/Supporting/Arisa Yuki.png,Supporting
+data/Supporting/Yoko.png,Supporting
+data/Main/Shun Makabe.png,Main
+data/Supporting/Mother Shiozaki.png,Supporting
+data/Main/Jousuke Higashikata.png,Main
+data/Main/Yume Asakura.png,Main
+data/Main/Thanast Useim Ruki Miu Sia Nostal Ren Naguregyug.png,Main
+data/Supporting/Rayet Areash.png,Supporting
+data/Main/Megumi Katou.png,Main
+data/Main/Yukihaha.png,Main
+data/Main/Kabane Kusaka.png,Main
+data/Supporting/A-Qing.png,Supporting
+data/Main/Kosaki Onodera.png,Main
+data/Supporting/Mieko Satosaki.png,Supporting
+data/Supporting/Shion Aries.png,Supporting
+data/Main/Karura-Ou.png,Main
+data/Supporting/Kyoko Himuro.png,Supporting
+data/Supporting/Baunsgoal.png,Supporting
+data/Main/Shou Kurusu.png,Main
+data/Main/Renji Abarai.png,Main
+data/Supporting/Noritaka Hamazaki.png,Supporting
+data/Supporting/Bianca Carlyle.png,Supporting
+data/Main/Chibi-neko.png,Main
+data/Supporting/Chigusa Kisaragi.png,Supporting
+data/Main/Alisha Diphda.png,Main
+data/Main/Esther Rosenthal.png,Main
+data/Supporting/Saeko Muranushi.png,Supporting
+data/Supporting/Mahiru Hyuuga.png,Supporting
+data/Main/Alois Cogez.png,Main
+data/Main/Iczer-1.png,Main
+data/Supporting/Abuhachi.png,Supporting
+data/Supporting/Fai D. Flourite.png,Supporting
+data/Main/Natsumi Mizuki.png,Main
+data/Supporting/Mitsuyo Akechi.png,Supporting
+data/Main/Jouji Nezu.png,Main
+data/Supporting/Sadayo Kawakami.png,Supporting
+data/Main/Cobra.png,Main
+data/Supporting/Balney Lifas.png,Supporting
+data/Main/Tarou Raimon.png,Main
+data/Main/Daisuke Domoto.png,Main
+data/Supporting/Alicia Cristela.png,Supporting
+data/Supporting/Ayumi Fukuhara.png,Supporting
+data/Main/Yoshiteru Ashikaga.png,Main
+data/Supporting/Chizuru Himeno.png,Supporting
+data/Supporting/Ahm.png,Supporting
+data/Supporting/Arlequino.png,Supporting
+data/Supporting/Dusty.png,Supporting
+data/Main/Tennosuke Tokoro.png,Main
+data/Supporting/Avril Bradley.png,Supporting
+data/Supporting/Mutsumi Kawahara.png,Supporting
+data/Supporting/Fabula.png,Supporting
+data/Main/Julis-Alexia von Riessfeld.png,Main
+data/Main/Mint Labule.png,Main
+data/Supporting/Hans Andrei.png,Supporting
+data/Main/Tsubasa Ibuki.png,Main
+data/Supporting/Eri Hazama.png,Supporting
+data/Main/Shun Sagimiya.png,Main
+data/Main/Aoi Ubukata.png,Main
+data/Main/Nami Koishikawa.png,Main
+data/Main/Bright.png,Main
+data/Main/Claude Claudel.png,Main
+data/Supporting/Lucia Konohana.png,Supporting
+data/Supporting/Ghislaine Dedoldia.png,Supporting
+data/Main/Ibara Naruse.png,Main
+data/Main/Badou Nails.png,Main
+data/Main/Kasumi Matsubara.png,Main
+data/Supporting/Mizuki Shimoya.png,Supporting
+data/Supporting/Nami Hitou.png,Supporting
+data/Main/Masane Amaha.png,Main
+data/Main/Azmaria Hendric.png,Main
+data/Main/Freecell.png,Main
+data/Main/Desumi Magahara.png,Main
+data/Supporting/Officer.png,Supporting
+data/Supporting/Genji Akui.png,Supporting
+data/Main/Mitsuru Ikeda.png,Main
+data/Main/Reika Aoki.png,Main
+data/Supporting/Minoru Minowa.png,Supporting
+data/Supporting/Kyouka Eden.png,Supporting
+data/Supporting/Gouken.png,Supporting
+data/Supporting/Kumiko Touma.png,Supporting
+data/Main/Akari Amano.png,Main
+data/Supporting/Chieri.png,Supporting
+data/Supporting/Kiichirou Kimiyoshi.png,Supporting
+data/Supporting/Xueyang Li.png,Supporting
+data/Main/Soldier Blue.png,Main
+data/Supporting/Kiyomi Kaname.png,Supporting
+data/Main/Anzu Iyojima.png,Main
+data/Supporting/Cheat.png,Supporting
+data/Main/Eugene Alexandre de Volkan.png,Main
+data/Supporting/Megumi Kuryuu.png,Supporting
+data/Main/Kanata Mugen.png,Main
+data/Main/Nancy Lee.png,Main
+data/Main/Ryou Ishizaki.png,Main
+data/Main/Momen Sanada.png,Main
+data/Supporting/Shinichi.png,Supporting
+data/Main/Araiguma.png,Main
+data/Main/Haru Nishimura.png,Main
+data/Supporting/Jin Aoi.png,Supporting
+data/Main/Kazumi Yoshinaga.png,Main
+data/Main/Chitose Karasuyama.png,Main
+data/Supporting/Belfangan Clouseau.png,Supporting
+data/Main/Eita Izumi.png,Main
+data/Main/Kanan Matsuura.png,Main
+data/Supporting/Manabu Hara.png,Supporting
+data/Main/Maina Ooizumi.png,Main
+data/Supporting/Matt.png,Supporting
+data/Supporting/Anzu's Father.png,Supporting
+data/Main/Yuuna Yuuki.png,Main
+data/Main/Lisara Restall.png,Main
+data/Main/Yuuko Ichihara.png,Main
+data/Supporting/Kirin Kumazuka.png,Supporting
+data/Supporting/Juri Katou.png,Supporting
+data/Supporting/Akari Haeno.png,Supporting
+data/Main/Aya Kobayashi.png,Main
+data/Main/Takeshi Kido.png,Main
+data/Main/Shirou Karina.png,Main
+data/Main/Shouma Mihara.png,Main
+data/Supporting/Iota.png,Supporting
+data/Main/Noriko Fukuda.png,Main
+data/Main/Toucan.png,Main
+data/Main/Konoha Amagi.png,Main
+data/Main/Sayuki.png,Main
+data/Supporting/Zhilan Bao.png,Supporting
+data/Supporting/Rosary.png,Supporting
+data/Main/Rikka Hiiragi.png,Main
+data/Main/Keith Harcourt.png,Main
+data/Main/Miyako Negishi.png,Main
+data/Main/Minami.png,Main
+data/Main/Yakusa.png,Main
+data/Supporting/Ookuma.png,Supporting
+data/Main/Ayaka Sunohara.png,Main
+data/Supporting/Kacchan.png,Supporting
+data/Main/Gentoku Ryuubi.png,Main
+data/Supporting/Erika Hiura.png,Supporting
+data/Supporting/Geweer.png,Supporting
+data/Main/Sarah Bryant.png,Main
+data/Main/Meng Meng Li.png,Main
+data/Main/Hakkekkyuu U-1146.png,Main
+data/Main/Souju Shirogane.png,Main
+data/Main/Rina Ogata.png,Main
+data/Supporting/Nanjiro Echizen.png,Supporting
+data/Supporting/Taeko Nonomiya.png,Supporting
+data/Supporting/Chokokkar.png,Supporting
+data/Supporting/Aki Asukai.png,Supporting
+data/Supporting/Shiho Iwasaki.png,Supporting
+data/Main/Clain Necran.png,Main
+data/Supporting/Hodir.png,Supporting
+data/Supporting/Miyu Tamaki.png,Supporting
+data/Main/Millie Nocturne.png,Main
+data/Supporting/Yakumo Kamizuru.png,Supporting
+data/Main/Doppo Kannonzaka.png,Main
+data/Supporting/Konatsu.png,Supporting
+data/Supporting/Cana Alberona.png,Supporting
+data/Main/Lin Koujo.png,Main
+data/Main/Hikaru Saitou.png,Main
+data/Supporting/Emily Sevensheep.png,Supporting
+data/Main/Shuuko Shiomi.png,Main
+data/Main/KOS-MOS.png,Main
+data/Supporting/Father Nishimikado.png,Supporting
+data/Main/Bonney.png,Main
+data/Supporting/Haji.png,Supporting
+data/Main/Takeru Kusuhara.png,Main
+data/Main/Moroha Haimura.png,Main
+data/Supporting/Wilhelmina Carmel.png,Supporting
+data/Main/Asami Hoshino.png,Main
+data/Main/Kai Miyagusuku.png,Main
+data/Main/Ramuda Amemura.png,Main
+data/Main/Kimito Kagurazaka.png,Main
+data/Main/Gauche Suede.png,Main
+data/Main/Mihai Mihaeroff.png,Main
+data/Main/Yuki.png,Main
+data/Supporting/Albert.png,Supporting
+data/Main/Aya Chousokabe.png,Main
+data/Supporting/Suzu Chika.png,Supporting
+data/Supporting/Yoshiki Nakameguro.png,Supporting
+data/Supporting/Donny.png,Supporting
+data/Main/Jack Atlas.png,Main
+data/Main/Haruki Shiga.png,Main
+data/Supporting/Kitamura.png,Supporting
+data/Supporting/Veronica Liones.png,Supporting
+data/Main/Kaede Tenjouji.png,Main
+data/Supporting/Marie Therese d'Autriche.png,Supporting
+data/Supporting/Kaoru Anesagi.png,Supporting
+data/Supporting/Cymbal Monkey.png,Supporting
+data/Supporting/Haman Karn.png,Supporting
+data/Supporting/Berg Katse.png,Supporting
+data/Main/Hane Sakura.png,Main
+data/Supporting/Ayase Ayatsuji.png,Supporting
+data/Supporting/Featherine Augustus Aurora.png,Supporting
+data/Supporting/Eriko.png,Supporting
+data/Supporting/Yuu Koutari.png,Supporting
+data/Main/Kei Higashide.png,Main
+data/Main/Taishi Manza.png,Main
+data/Main/Takashi Terada.png,Main
+data/Supporting/Lu Sheng Mao.png,Supporting
+data/Supporting/Lin.png,Supporting
+data/Supporting/Shigure Komai.png,Supporting
+data/Main/Wakana Gojou.png,Main
+data/Main/Kyouko Suomi.png,Main
+data/Supporting/Miwako Satou.png,Supporting
+data/Main/Ami Mizuno.png,Main
+data/Main/Nina Yamada.png,Main
+data/Supporting/Himeno.png,Supporting
+data/Supporting/Tomonori  Akai.png,Supporting
+data/Main/Rei Hasekura.png,Main
+data/Supporting/Jessica Morishima.png,Supporting
+data/Supporting/Richard Friedman.png,Supporting
+data/Supporting/Reon Misono.png,Supporting
+data/Main/Ryouji Mochizuki.png,Main
+data/Main/Ichijou.png,Main
+data/Supporting/Hajime Saitou.png,Supporting
+data/Main/Jasmine.png,Main
+data/Main/Hiroshi Tateno.png,Main
+data/Supporting/Kyousuke Imadori.png,Supporting
+data/Main/Setsuna Sakurazaki.png,Main
+data/Main/Tsukihi Araragi.png,Main
+data/Supporting/Chianti.png,Supporting
+data/Supporting/Kazumi Akiyama.png,Supporting
+data/Main/Haruka Mikisaka.png,Main
+data/Main/Yuuko Kurita.png,Main
+data/Main/Sephie Michaela Deviluke.png,Main
+data/Supporting/Akahige.png,Supporting
+data/Main/Honoka Yukishiro.png,Main
+data/Main/Tiantian Mao.png,Main
+data/Main/Akira Shirase.png,Main
+data/Main/Ai Magase.png,Main
+data/Supporting/Atsuya Baba.png,Supporting
+data/Supporting/Shin.png,Supporting
+data/Supporting/Suzune Asahina.png,Supporting
+data/Main/Hayato Sasugai.png,Main
+data/Supporting/Akane Mitamura.png,Supporting
+data/Supporting/Yumi Mamiya.png,Supporting
+data/Supporting/Keroko.png,Supporting
+data/Supporting/Momoko Aoyagi.png,Supporting
+data/Main/Kouta Shibaki.png,Main
+data/Supporting/Kou Hayama.png,Supporting
+data/Supporting/Lilika Tobita.png,Supporting
+data/Main/Himea Saito.png,Main
+data/Main/Yoshino Koharu.png,Main
+data/Main/Maria Hayasaka.png,Main
+data/Main/Hakka Don.png,Main
+data/Supporting/Ryuunosuke Kataoka.png,Supporting
+data/Main/Makoto Tachibana.png,Main
+data/Main/Raou.png,Main
+data/Main/Orga Itsuka.png,Main
+data/Supporting/Jinzouningen 18-gou.png,Supporting
+data/Main/Ritsu.png,Main
+data/Supporting/Bianca.png,Supporting
+data/Supporting/Maki Tsurumaki.png,Supporting
+data/Supporting/Star Cloud.png,Supporting
+data/Main/Maya Jingu.png,Main
+data/Main/Schwi Dola.png,Main
+data/Main/Rei Ichidou.png,Main
+data/Main/Kimimaro Yoga.png,Main
+data/Main/Charlotte Dunois.png,Main
+data/Supporting/Pip Bernadotte.png,Supporting
+data/Main/Shingo Kinjou.png,Main
+data/Supporting/Iceland.png,Supporting
+data/Main/Abriel Debrusc.png,Main
+data/Main/Valya.png,Main
+data/Supporting/Deshiko Deshi.png,Supporting
+data/Main/Tsubaki Nakao.png,Main
+data/Main/Nanako Shichigusa.png,Main
+data/Supporting/Agohige.png,Supporting
+data/Supporting/Jun Matsudaira.png,Supporting
+data/Main/Yuuga Oota.png,Main
+data/Supporting/Rio Amakusa.png,Supporting
+data/Main/Laura.png,Main
+data/Supporting/Shizuka Kagamihara.png,Supporting
+data/Supporting/Tsubame.png,Supporting
+data/Main/Mitsugu Banba.png,Main
+data/Supporting/Last Trinity.png,Supporting
+data/Main/Anya Alstreim.png,Main
+data/Main/Carr Benedict.png,Main
+data/Supporting/Arnold Eda.png,Supporting
+data/Supporting/Darry Adai.png,Supporting
+data/Main/Ryo Hamura.png,Main
+data/Supporting/Rei Wakana.png,Supporting
+data/Supporting/Yuu.png,Supporting
+data/Main/Tsubasa Watatsumi.png,Main
+data/Supporting/Princess Kiku.png,Supporting
+data/Supporting/Maki Himekura.png,Supporting
+data/Main/Ren Nanase.png,Main
+data/Main/Joe Maya.png,Main
+data/Main/Yufa.png,Main
+data/Main/Souseiseki.png,Main
+data/Supporting/Cherry Spirit Sakura.png,Supporting
+data/Main/Melida Angel.png,Main
+data/Supporting/Clive.png,Supporting
+data/Main/Kikunosuke Abashiri.png,Main
+data/Supporting/Tae Takemi.png,Supporting
+data/Supporting/Karasu.png,Supporting
+data/Main/Ginko Murakami.png,Main
+data/Supporting/Fortune Teller.png,Supporting
+data/Supporting/Junko Aoba.png,Supporting
+data/Main/Kotori Hoshino.png,Main
+data/Main/Hitomebore.png,Main
+data/Main/Koume Yukimi.png,Main
+data/Main/Gabu Samejima.png,Main
+data/Supporting/Sandy McDougal.png,Supporting
+data/Main/Chocola.png,Main
+data/Supporting/Tsutsutaka Agoyamato.png,Supporting
+data/Main/Shinjirou Aragaki.png,Main
+data/Main/Aya Kouda.png,Main
+data/Supporting/Ugetsu Murata.png,Supporting
+data/Supporting/Fei-Long.png,Supporting
+data/Main/Tadamichi Aoba.png,Main
+data/Supporting/Chrono Shindou.png,Supporting
+data/Supporting/Welf Crozzo.png,Supporting
+data/Supporting/Shera.png,Supporting
+data/Supporting/Echoes.png,Supporting
+data/Supporting/Houko Hoshimiya.png,Supporting
+data/Supporting/Amaterasu.png,Supporting
+data/Main/Kamo Serizawa.png,Main
+data/Supporting/Reiji Higashi-shinjuku.png,Supporting
+data/Main/Sasami Sasasegawa.png,Main
+data/Supporting/Abukawa.png,Supporting
+data/Main/Hinata Sakuramiya.png,Main
+data/Supporting/Akiko Kamiyama.png,Supporting
+data/Supporting/Su Nowman Par.png,Supporting
+data/Main/Kiyomasa Senji.png,Main
+data/Supporting/Heinz Axmann.png,Supporting
+data/Main/Nobukatsu Oda.png,Main
+data/Supporting/Nagisa Hazuki.png,Supporting
+data/Supporting/Kagezaki.png,Supporting
+data/Main/Shinako Morinome.png,Main
+data/Supporting/Raul Creed.png,Supporting
+data/Supporting/Milady.png,Supporting
+data/Supporting/Amnelis.png,Supporting
+data/Supporting/Takeo Badaiju.png,Supporting
+data/Main/Mayumi Hitomi.png,Main
+data/Supporting/Tarou Akatsuki.png,Supporting
+data/Supporting/Honoka Ishikawa.png,Supporting
+data/Main/Mariko Rosebank.png,Main
+data/Supporting/Hana's Mother.png,Supporting
+data/Main/Hua Fu.png,Main
+data/Main/Natsuki Usami.png,Main
+data/Main/Maria Grace Fleed.png,Main
+data/Supporting/Gym teacher.png,Supporting
+data/Main/Saiki Yasuo.png,Main
+data/Main/Chang Gai Steiner.png,Main
+data/Main/Gamlin Kizaki.png,Main
+data/Main/Miharu Itsukushima.png,Main
+data/Main/Tyranno Kenzan.png,Main
+data/Main/Misora Kasuga.png,Main
+data/Main/Utaha Kasumigaoka.png,Main
+data/Main/Shun Fujimaki.png,Main
+data/Supporting/Poon.png,Supporting
+data/Main/Karen Aijou.png,Main
+data/Main/Natsume Asahina.png,Main
+data/Main/Nana Ogawa.png,Main
+data/Supporting/Attendant.png,Supporting
+data/Main/Folna.png,Main
+data/Main/Oz Vessalius.png,Main
+data/Supporting/Azumi Abe.png,Supporting
+data/Supporting/Wizer Freion.png,Supporting
+data/Supporting/Apollonius.png,Supporting
+data/Supporting/Frederic March.png,Supporting
+data/Main/Kyousuke Kuga.png,Main
+data/Supporting/Sakaki Beisel.png,Supporting
+data/Supporting/Kei Aoki.png,Supporting
+data/Supporting/Apeas.png,Supporting
+data/Main/Karamatsu Matsuno.png,Main
+data/Main/Masaru Hananakajima.png,Main
+data/Main/Meifon Li.png,Main
+data/Main/Haruma Kawagoe.png,Main
+data/Main/Baku.png,Main
+data/Supporting/Shuuya Houjou.png,Supporting
+data/Main/Nagisa Minase.png,Main
+data/Main/Touma Norstein.png,Main
+data/Supporting/Minamo Kurosawa.png,Supporting
+data/Main/Kanon Miyamori.png,Main
+data/Main/Suzune Horikita.png,Main
+data/Main/Haru.png,Main
+data/Main/Chizuru Hishiro.png,Main
+data/Main/Ken Amafuji.png,Main
+data/Supporting/Rin Shima.png,Supporting
+data/Main/Haruna Kisaragi.png,Main
+data/Supporting/Sena Akagi.png,Supporting
+data/Main/Eiji Kikumaru.png,Main
+data/Supporting/Noise.png,Supporting
+data/Main/Takayuki Todou.png,Main
+data/Supporting/Jiiji.png,Supporting
+data/Supporting/Kilian Black.png,Supporting
+data/Main/Baron Abel.png,Main
+data/Main/Shou Kazamatsuri.png,Main
+data/Supporting/Jiku.png,Supporting
+data/Supporting/Eric Brooks.png,Supporting
+data/Supporting/Kyouju.png,Supporting
+data/Supporting/Michiru Kiryuu.png,Supporting
+data/Supporting/Yuuna Hijirisawa.png,Supporting
+data/Supporting/Goblin Joushi.png,Supporting
+data/Supporting/Hideko.png,Supporting
+data/Supporting/Mamoru Izawa.png,Supporting
+data/Supporting/Carl.png,Supporting
+data/Main/Hitomonji Kobayashi.png,Main
+data/Main/Jomy Marquis Shin.png,Main
+data/Main/Momo Chiyoda.png,Main
+data/Main/Yuuto Takao.png,Main
+data/Main/Power.png,Main
+data/Main/Evelogia.png,Main
+data/Main/Aroma Kurosu.png,Main
+data/Supporting/Totoko Yowai.png,Supporting
+data/Supporting/Kouzou Fuyutsuki.png,Supporting
+data/Supporting/Kanna.png,Supporting
+data/Supporting/Sophine.png,Supporting
+data/Supporting/Julia Line Dragoon.png,Supporting
+data/Main/Ouka Yuuouji.png,Main
+data/Supporting/Robin Baxter.png,Supporting
+data/Supporting/Shouzou Chihaya.png,Supporting
+data/Main/Aya Natsume.png,Main
+data/Main/Kokuto.png,Main
+data/Main/Takumi Hira.png,Main
+data/Supporting/Hisako.png,Supporting
+data/Main/Riko Fukamine.png,Main
+data/Supporting/Milk Callaud.png,Supporting
+data/Supporting/Denko Busujima.png,Supporting
+data/Main/Giselle Collette.png,Main
+data/Supporting/Father Kominato.png,Supporting
+data/Main/Yukino Honma.png,Main
+data/Supporting/Gasquet.png,Supporting
+data/Main/Himiko Inaba.png,Main
+data/Main/Marina Oki.png,Main
+data/Main/Chizuru Aizawa.png,Main
+data/Supporting/Geki Bear.png,Supporting
+data/Main/Onsa Amano.png,Main
+data/Supporting/Yatsuho Nishiki.png,Supporting
+data/Main/Berg Katze.png,Main
+data/Main/Minako Aino.png,Main
+data/Supporting/Gien Bunchou.png,Supporting
+data/Main/Shade.png,Main
+data/Main/Meguru Amatsuki.png,Main
+data/Main/Ashise.png,Main
+data/Supporting/Shuugo Asagaya.png,Supporting
+data/Supporting/Daigo Kagemitsu.png,Supporting
+data/Main/Djeeta.png,Main
+data/Supporting/Izumi Nase.png,Supporting
+data/Main/Gen Todoroki.png,Main
+data/Supporting/Argath.png,Supporting
+data/Main/Migeira.png,Main
+data/Supporting/Haruki Hishida.png,Supporting
+data/Supporting/Patty Baldwin.png,Supporting
+data/Main/Afin.png,Main
+data/Supporting/Chris.png,Supporting
+data/Main/Silver Mask.png,Main
+data/Main/Fyana.png,Main
+data/Main/Megumi Nishitori.png,Main
+data/Main/Seishin Muroi.png,Main
+data/Supporting/Okiku.png,Supporting
+data/Main/Aki Hayakawa.png,Main
+data/Main/Naomi Katagaki.png,Main
+data/Main/Azusa Fuyutsuki.png,Main
+data/Supporting/Adam Bindewald.png,Supporting
+data/Supporting/Akiko Kawai.png,Supporting
+data/Supporting/Kasegi.png,Supporting
+data/Main/Romeo.png,Main
+data/Supporting/Misery.png,Supporting
+data/Supporting/Hannah England.png,Supporting
+data/Main/Chouhi.png,Main
+data/Main/Yua Kusunoki.png,Main
+data/Supporting/Mitsuru Fujiwara.png,Supporting
+data/Main/Haruta Kamijou.png,Main
+data/Main/Yuki Fukazawa.png,Main
+data/Supporting/C. K. Kloshkin.png,Supporting
+data/Main/Misao Mitsuka.png,Main
+data/Main/Tetsu Hayami.png,Main
+data/Main/Felicia Melissa Epstein.png,Main
+data/Supporting/Almaria Duffner.png,Supporting
+data/Main/Sarai Hashigami.png,Main
+data/Supporting/Airi Ban.png,Supporting
+data/Main/Kuroda.png,Main
+data/Main/Violence Jack.png,Main
+data/Supporting/Karami Azuma.png,Supporting
+data/Main/Sakurako Kariya.png,Main
+data/Supporting/Manfred Beriam.png,Supporting
+data/Main/Ayako Sonomura.png,Main
+data/Main/Ao Fukai.png,Main
+data/Main/Raidiese F. Branstein.png,Main
+data/Main/Pele Poporo.png,Main
+data/Supporting/Esu Hikube.png,Supporting
+data/Main/Yakumo Yoshikawa.png,Main
+data/Main/Lian Shiying.png,Main
+data/Main/Sakutarou Hagiwara.png,Main
+data/Supporting/Bario.png,Supporting
+data/Main/Inori Shibuya.png,Main
+data/Supporting/Luciana Mazzei.png,Supporting
+data/Supporting/Togami.png,Supporting
+data/Main/Iris Eris.png,Main
+data/Main/Toki.png,Main
+data/Supporting/Charlie Sloane.png,Supporting
+data/Supporting/Byakuei.png,Supporting
+data/Main/Megumi Kamimura.png,Main
+data/Main/Akiho Senomiya.png,Main
+data/Supporting/Tonio.png,Supporting
+data/Supporting/Yurina Hanakura.png,Supporting
+data/Main/Cat.png,Main
+data/Main/Yui Obata.png,Main
+data/Main/Uro Yamada.png,Main
+data/Main/Hana Shirosaki.png,Main
+data/Supporting/Ganza.png,Supporting
+data/Supporting/Chie Igarashi.png,Supporting
+data/Main/Bayonetta.png,Main
+data/Main/Lili.png,Main
+data/Supporting/Campanula.png,Supporting
+data/Main/Aram.png,Main
+data/Supporting/Hawk.png,Supporting
+data/Supporting/Hayato Ijuuin.png,Supporting
+data/Main/Misuzu Kusakabe.png,Main
+data/Main/Saki Yuutenji.png,Main
+data/Main/Miku Miyama.png,Main
+data/Main/Baobao Feng.png,Main
+data/Main/Azuzu Komagome.png,Main
+data/Main/Yukiko Minase.png,Main
+data/Main/Kurogane.png,Main
+data/Main/Hiromi Yuasa.png,Main
+data/Main/Narihira Ariwara no.png,Main
+data/Main/Rei Sakuma.png,Main
+data/Supporting/Kaname Chiba.png,Supporting
+data/Main/Kotarou Tennouji.png,Main
+data/Supporting/Philippite Valois Bourgogne.png,Supporting
+data/Main/Hyousuke Nagimiya.png,Main
+data/Supporting/Anna's Mother.png,Supporting
+data/Main/Manaia Matawhaura Hato.png,Main
+data/Supporting/Kouko Fukuyo.png,Supporting
+data/Main/Akira Asagi.png,Main
+data/Main/Tsubaki Hibino.png,Main
+data/Main/Hana Arai.png,Main
+data/Supporting/Tsubasa Hiiragi.png,Supporting
+data/Main/Ryu Dolk.png,Main
+data/Supporting/Sakura Asama.png,Supporting
+data/Main/Karen Tendou.png,Main
+data/Supporting/Shuuji Ikutsuki.png,Supporting
+data/Supporting/Erika Chiba.png,Supporting
+data/Supporting/B Saibou.png,Supporting
+data/Main/Haruka Yumesaki.png,Main
+data/Main/Robin.png,Main
+data/Main/Yoshiyuki Taira.png,Main
+data/Supporting/Issun-boshi.png,Supporting
+data/Main/Nanami Hisami.png,Main
+data/Main/Asakura.png,Main
+data/Supporting/Gust Turbulence.png,Supporting
+data/Supporting/Chisato Fujii.png,Supporting
+data/Main/Youhei Hamaji.png,Main
+data/Supporting/Ichishi.png,Supporting
+data/Supporting/Miku Asakura.png,Supporting
+data/Main/Juugo Yama.png,Main
+data/Main/Claire Harvey.png,Main
+data/Main/Yuriya Komiya.png,Main
+data/Supporting/Takashi Shiginuma.png,Supporting
+data/Supporting/Fu's Grandmother.png,Supporting
+data/Supporting/Ai Kinoshita.png,Supporting
+data/Main/Nanase Kotobuki.png,Main
+data/Main/Yuzuki Eba.png,Main
+data/Supporting/Karoku Arumerita.png,Supporting
+data/Supporting/Ume Aihara.png,Supporting
+data/Main/Ryou Ninomiya.png,Main
+data/Main/Ami Futami.png,Main
+data/Supporting/Sessai Taigen.png,Supporting
+data/Main/Hitsujii.png,Main
+data/Supporting/Miko.png,Supporting
+data/Main/Kaoru Kaidou.png,Main
+data/Main/Yako Katsuragi.png,Main
+data/Supporting/Chairman.png,Supporting
+data/Main/Kazuki Sanada.png,Main
+data/Supporting/Tsugumi Aozora.png,Supporting
+data/Main/Hiroshi Nohara.png,Main
+data/Main/Lea.png,Main
+data/Supporting/Arata Wataya.png,Supporting
+data/Supporting/Enrique Bishilie.png,Supporting
+data/Supporting/Grandfather Takanashi.png,Supporting
+data/Supporting/Charao.png,Supporting
+data/Supporting/Natsumi Bekki.png,Supporting
+data/Supporting/Tarou Beppu.png,Supporting
+data/Supporting/Jirou Chouno.png,Supporting
+data/Supporting/Dismantler.png,Supporting
+data/Main/Yuu Nagami.png,Main
+data/Supporting/Kureha.png,Supporting
+data/Main/Kyosuke Kanou.png,Main
+data/Supporting/Raymond Cain.png,Supporting
+data/Main/Arisa Nanase.png,Main
+data/Main/Persephone II.png,Main
+data/Supporting/Admiral Graf Spee.png,Supporting
+data/Supporting/Jared Anderson.png,Supporting
+data/Supporting/Kurihara.png,Supporting
+data/Main/Ayla V. Roznovsky.png,Main
+data/Supporting/Atsuro's Teacher.png,Supporting
+data/Supporting/Riphal Edea.png,Supporting
+data/Main/Ecarlate Juptris St. Piria.png,Main
+data/Supporting/Chitose Kaginoji.png,Supporting
+data/Main/Ran Mouri.png,Main
+data/Main/Hiroyuki Sanada.png,Main
+data/Main/Manabu Yuuki.png,Main
+data/Main/Yuuya Kanzaki.png,Main
+data/Supporting/Menou Matsuyama.png,Supporting
+data/Main/Yuuki Hase.png,Main
+data/Main/Hatoko Kushikawa.png,Main
+data/Supporting/Granduncle.png,Supporting
+data/Main/Peter Grill.png,Main
+data/Main/Hitomi Takami.png,Main
+data/Main/Kamome Sengakuji.png,Main
+data/Main/Kasumi Miyamori.png,Main
+data/Main/Hunter.png,Main
+data/Supporting/Alf.png,Supporting
+data/Main/Parsley.png,Main
+data/Main/Toshio.png,Main
+data/Main/Chiaki Oogaki.png,Main
+data/Supporting/Lida Canales.png,Supporting
+data/Supporting/Haiyama.png,Supporting
+data/Main/Memole.png,Main
+data/Main/Nene Amano.png,Main
+data/Main/Kyosuke Mamou.png,Main
+data/Main/Cosmo Yuuki.png,Main
+data/Main/Jack.png,Main
+data/Main/Yoshino Fujieda.png,Main
+data/Main/Natsuna Keyaki.png,Main
+data/Main/Ryou Fujibayashi.png,Main
+data/Supporting/Kanpei Kuroda.png,Supporting
+data/Main/Soran.png,Main
+data/Main/Rina Yunoki.png,Main
+data/Main/Koko Ninna-Nanna.png,Main
+data/Main/Liu Mao Xing.png,Main
+data/Main/Fiore.png,Main
+data/Supporting/Seiko Suiryou.png,Supporting
+data/Supporting/Doc McCoy.png,Supporting
+data/Main/Emperor Xul.png,Main
+data/Main/Sakamichi Onoda.png,Main
+data/Main/Azuma Yunoki.png,Main
+data/Supporting/Yuri Koigakubo.png,Supporting
+data/Supporting/Yoshimi Hagiwara.png,Supporting
+data/Supporting/Ken Akamatsu.png,Supporting
+data/Main/Reiji Senda.png,Main
+data/Supporting/Noro-chan.png,Supporting
+data/Main/Alfons Heiderich.png,Main
+data/Main/Suguru Getou.png,Main
+data/Supporting/Haruhiko Beppu.png,Supporting
+data/Main/Kokomi Teruhashi.png,Main
+data/Supporting/Sachiyo Matsumoto.png,Supporting
+data/Main/Maiko Morisawa.png,Main
+data/Main/Rin Kirishima.png,Main
+data/Supporting/Bakura no Chichi.png,Supporting
+data/Main/Shunsuke Hayami.png,Main
+data/Supporting/Kotaro Higashino.png,Supporting
+data/Supporting/Amanda.png,Supporting
+data/Main/Risa Harada.png,Main
+data/Main/Romio Inuzuka.png,Main
+data/Main/Yuri Lowell.png,Main
+data/Main/Mahiru Narukawa.png,Main
+data/Supporting/Aisa.png,Supporting
+data/Main/Sicily von Claude.png,Main
+data/Supporting/Nadeshiko Benibara.png,Supporting
+data/Supporting/A A A.png,Supporting
+data/Supporting/Corni.png,Supporting
+data/Main/Rei Togetsu.png,Main
+data/Main/Akane Segawa.png,Main
+data/Supporting/Himori Akiyama.png,Supporting
+data/Supporting/Q-vier.png,Supporting
+data/Main/Kokoru.png,Main
+data/Main/Inuyasha.png,Main
+data/Supporting/Phantom F.  Harlock I.png,Supporting
+data/Supporting/Hikari Kujou.png,Supporting
+data/Main/Zephel.png,Main
+data/Supporting/Angie.png,Supporting
+data/Main/Sochie Heim.png,Main
+data/Main/Koharu Tanaka.png,Main
+data/Main/Mikuni.png,Main
+data/Supporting/Yozora Kasumi.png,Supporting
+data/Main/Seri Koyuki.png,Main
+data/Supporting/Mai Fukuyama.png,Supporting
+data/Main/Ryo Magami.png,Main
+data/Supporting/Mihai Florescu.png,Supporting
+data/Supporting/Grathan Gryn.png,Supporting
+data/Main/Kousei Hida.png,Main
+data/Main/Sukoya Kokaji.png,Main
+data/Main/Kei Kurono.png,Main
+data/Supporting/Eiken Asuka.png,Supporting
+data/Supporting/Daki.png,Supporting
+data/Main/Ai Server.png,Main
+data/Main/Takumi Kisaragi.png,Main
+data/Supporting/Andrew Gallagher.png,Supporting
+data/Supporting/Shanks.png,Supporting
+data/Main/Shiro Amada.png,Main
+data/Main/Shougo Sena.png,Main
+data/Supporting/Hiro Hayami.png,Supporting
+data/Main/Erika Shinohara.png,Main
+data/Supporting/Mia Kusunoki.png,Supporting
+data/Supporting/Banba.png,Supporting
+data/Supporting/Magane Hyuga.png,Supporting
+data/Supporting/Maki Ikuta.png,Supporting
+data/Supporting/Ananda.png,Supporting
+data/Main/Karin.png,Main
+data/Main/Saaya Yamabuki.png,Main
+data/Supporting/Calaveras.png,Supporting
+data/Main/Sapsan Elektrichka.png,Main
+data/Supporting/Okami.png,Supporting
+data/Main/Abel.png,Main
+data/Supporting/Shunsaku Kudou.png,Supporting
+data/Supporting/Neil Leagan.png,Supporting
+data/Main/Haruhi Suzumiya.png,Main
+data/Supporting/Shigeru Akamatsu.png,Supporting
+data/Supporting/Kazuya Kasuga.png,Supporting
+data/Supporting/Milk.png,Supporting
+data/Supporting/Celonius 28 Asuka Yayoi.png,Supporting
+data/Main/Eiji Kai.png,Main
+data/Main/Yuki Takeya.png,Main
+data/Main/El Drago.png,Main
+data/Main/Shuusuke Wakatsuki.png,Main
+data/Main/Tsuyuha.png,Main
+data/Supporting/Yui Morikawa.png,Supporting
+data/Main/Ushio Shimabara.png,Main
+data/Main/Tsubame Mizusaki.png,Main
+data/Main/Shun Kazama.png,Main
+data/Main/Aiga Akaba.png,Main
+data/Main/Nadeko Sengoku.png,Main
+data/Supporting/Asuka Toyama.png,Supporting
+data/Main/Ichiro Hongou.png,Main
+data/Main/Minko Tsurugi.png,Main
+data/Main/Mimori Kishida.png,Main
+data/Supporting/Mai Hazakura.png,Supporting
+data/Main/Kirihide Konno.png,Main
+data/Main/Hoihoi-san.png,Main
+data/Main/Masaru Aoki.png,Main
+data/Main/Niina Sugawara.png,Main
+data/Main/Yuuki Asaba.png,Main
+data/Main/Sakie Satou.png,Main
+data/Main/Kouji Tongari.png,Main
+data/Supporting/Job.png,Supporting
+data/Main/Ruriko Ikusawa.png,Main
+data/Main/Valt Aoi.png,Main
+data/Supporting/Schwartz Koff.png,Supporting
+data/Main/Kousaku Hata.png,Main
+data/Main/Satoru Asahina.png,Main
+data/Main/Mitsuya Majime.png,Main
+data/Supporting/Anna's Grandmother.png,Supporting
+data/Supporting/Tatsuya Kaname.png,Supporting
+data/Main/Riku Haruma.png,Main
+data/Main/Agan Maydol.png,Main
+data/Supporting/Youichi Aikawa.png,Supporting
+data/Main/Tsukune Aono.png,Main
+data/Main/Suiran Fou.png,Main
+data/Supporting/Enki.png,Supporting
+data/Main/Flore.png,Main
+data/Supporting/Chocola.png,Supporting
+data/Supporting/Reiko Amabuki.png,Supporting
+data/Supporting/Koyori Akutagawa.png,Supporting
+data/Supporting/Ratie Curti.png,Supporting
+data/Main/Zorome.png,Main
+data/Supporting/Bunmei Muroto.png,Supporting
+data/Main/Leena Toros.png,Main
+data/Supporting/Jouji Kamamoto.png,Supporting
+data/Main/Touma Aizen.png,Main
+data/Main/Shouko Nishijima.png,Main
+data/Main/Hana Adachi.png,Main
+data/Supporting/Wakaba Midorino.png,Supporting
+data/Main/Misao Aoki.png,Main
+data/Supporting/Saiko Junou.png,Supporting
+data/Supporting/Nexx Gilbert.png,Supporting
+data/Supporting/Velvet Crowe.png,Supporting
+data/Main/Shigeru Mochida.png,Main
+data/Main/Haruka Kokonose.png,Main
+data/Supporting/Da Vinci.png,Supporting
+data/Supporting/Koishi Herikawa.png,Supporting
+data/Main/Haruna.png,Main
+data/Main/Jun Manjoume.png,Main
+data/Supporting/Tomomi Asakura.png,Supporting
+data/Supporting/Jean Baptiste Hevens.png,Supporting
+data/Main/Kyousuke Kasuga.png,Main
+data/Supporting/Mari Kurakawa.png,Supporting
+data/Supporting/Rina Takashimizu.png,Supporting
+data/Main/Misumi Tanaka.png,Main
+data/Supporting/Masamichi Nakamura.png,Supporting
+data/Supporting/Yasuo Nanbu.png,Supporting
+data/Main/Yuzuki Shiraishi.png,Main
+data/Main/Janny Mann.png,Main
+data/Main/Cecil Aijima.png,Main
+data/Supporting/Ifurita.png,Supporting
+data/Supporting/Mayuri Shiina.png,Supporting
+data/Main/Maroko Yomota.png,Main
+data/Main/Kuroudo Marume.png,Main
+data/Main/Queen Nehellenia.png,Main
+data/Main/Trish Una.png,Main
+data/Main/Aoi Sanada.png,Main
+data/Supporting/Mihoshi Kuramitsu.png,Supporting
+data/Supporting/Serena Jounouchi.png,Supporting
+data/Supporting/Yumi Azusa.png,Supporting
+data/Main/Ekoda-chan.png,Main
+data/Supporting/Neko Fujinomiya.png,Supporting
+data/Supporting/Bunyan Leone.png,Supporting
+data/Main/Fiona.png,Main
+data/Supporting/Mitsumasa Kido.png,Supporting
+data/Supporting/Ishioka.png,Supporting
+data/Supporting/Keigo Asano.png,Supporting
+data/Main/Ozma Lee.png,Main
+data/Main/Ringo Oginome.png,Main
+data/Main/Haji.png,Main
+data/Supporting/Naoya Shiga.png,Supporting
+data/Main/Toshinari Seki.png,Main
+data/Supporting/Megumi Fujita.png,Supporting
+data/Supporting/Inoue-kun.png,Supporting
+data/Main/Poko.png,Main
+data/Main/David Young.png,Main
+data/Supporting/Commander Red.png,Supporting
+data/Main/Takuto Tsunashi.png,Main
+data/Main/Shiemi Moriyama.png,Main
+data/Supporting/Ayuko Rara.png,Supporting
+data/Supporting/Sumie Ayado.png,Supporting
+data/Main/Naomasa Ii.png,Main
+data/Main/Ayase Kishimoto.png,Main
+data/Supporting/Annette.png,Supporting
+data/Main/Tomoka Kase.png,Main
+data/Supporting/Akira Inoue.png,Supporting
+data/Supporting/Miyuki Irie.png,Supporting
+data/Main/Miki Shintani.png,Main
+data/Supporting/Atsushi Kisarazu.png,Supporting
+data/Main/Guido Mista.png,Main
+data/Main/Tooi Kuji.png,Main
+data/Main/Eriri Spencer Sawamura.png,Main
+data/Main/Curo Kazamiya.png,Main
+data/Supporting/Kito.png,Supporting
+data/Main/Raul Chaser.png,Main
+data/Main/Monami Suzuki.png,Main
+data/Supporting/Diceman.png,Supporting
+data/Main/Chihiro Enomoto.png,Main
+data/Main/Ermalit de Blanchefort.png,Main
+data/Main/Tamotsu Denkigai.png,Main
+data/Supporting/Erhart  Hawke.png,Supporting
+data/Main/Erika Kuramoto.png,Main
+data/Supporting/Barsa.png,Supporting
+data/Main/Rou Tang.png,Main
+data/Main/Misora Haruki.png,Main
+data/Supporting/Lee Sue Min.png,Supporting
+data/Supporting/Kakeru Keshi.png,Supporting
+data/Main/Chidori.png,Main
+data/Main/Leon Fou Bartfort.png,Main
+data/Supporting/Mizuho Kazami.png,Supporting
+data/Main/Nozomi Daichi.png,Main
+data/Supporting/Kaoru Awayuki.png,Supporting
+data/Supporting/Mizubuchi.png,Supporting
+data/Main/Dark Dream.png,Main
+data/Supporting/Izuko Gaen.png,Supporting
+data/Main/Maria Takayama.png,Main
+data/Main/Spider.png,Main
+data/Supporting/Issei Joujima.png,Supporting
+data/Supporting/Ginam Han.png,Supporting
+data/Supporting/Chiho Hidaka.png,Supporting
+data/Supporting/Kakugein Kafuko.png,Supporting
+data/Main/Alice Kurobane.png,Main
+data/Supporting/Tom.png,Supporting
+data/Main/Hayato Izumi.png,Main
+data/Supporting/Allan Adams.png,Supporting
+data/Supporting/Baraluuda.png,Supporting
+data/Main/Masato Oosuki.png,Main
+data/Supporting/Moka Gotou.png,Supporting
+data/Main/Diana Cavendish.png,Main
+data/Main/Albertina II.png,Main
+data/Main/Mi Server.png,Main
+data/Supporting/Otome Akiyama.png,Supporting
+data/Main/Rurubell.png,Main
+data/Supporting/Houko Byouinzaka.png,Supporting
+data/Main/Satoshi Yabe.png,Main
+data/Main/Kaori Tachibana.png,Main
+data/Main/Tomoko.png,Main
+data/Supporting/Akachanman.png,Supporting
+data/Supporting/Aoshi Saginuma.png,Supporting
+data/Main/Sakura Haruno.png,Main
+data/Main/Suzuka Aizawa.png,Main
+data/Supporting/Borzov.png,Supporting
+data/Main/Remy Shimada.png,Main
+data/Supporting/Miya Chinen.png,Supporting
+data/Supporting/Yayoi Sasaki.png,Supporting
+data/Supporting/Kimie Kamata.png,Supporting
+data/Main/Nagisa Tennouji.png,Main
+data/Supporting/Pierre-Michel de Lugo.png,Supporting
+data/Main/Tomohiro Takabe.png,Main
+data/Supporting/Aki Murasame.png,Supporting
+data/Main/Javert.png,Main
+data/Main/Kaoruko Sashima.png,Main
+data/Main/Youta.png,Main
+data/Main/Sora Naegino.png,Main
+data/Main/Major Jack Barbarossa Bancoran.png,Main
+data/Main/Jimmy Bean.png,Main
+data/Supporting/Kinbee.png,Supporting
+data/Main/Leorio Paladiknight.png,Main
+data/Main/Reishi Munakata.png,Main
+data/Main/Haruto Souma.png,Main
+data/Supporting/Gyokuren.png,Supporting
+data/Supporting/Ida.png,Supporting
+data/Supporting/Teru Hyakutake.png,Supporting
+data/Main/Atsushi Shimao.png,Main
+data/Main/Mash Kyrielight.png,Main
+data/Supporting/Rinko Shirokane.png,Supporting
+data/Main/Morinas.png,Main
+data/Main/Sven Vollfied.png,Main
+data/Main/Natsumi Orifushi.png,Main
+data/Supporting/Luka Carson.png,Supporting
+data/Main/Yaha-kui zaShunina.png,Main
+data/Supporting/Seiko Kasuga.png,Supporting
+data/Supporting/Lady.png,Supporting
+data/Supporting/An Geppou.png,Supporting
+data/Main/Yuu Fujikura.png,Main
+data/Main/Tomoe Misumi.png,Main
+data/Main/Hanae Ashiya.png,Main
+data/Supporting/Tsubasa Ginno.png,Supporting
+data/Supporting/Magistrate.png,Supporting
+data/Supporting/Chin Chin Chou.png,Supporting
+data/Supporting/Daphne.png,Supporting
+data/Supporting/Professor Hojo.png,Supporting
+data/Main/Seal brown horse.png,Main
+data/Main/Rinna Charat.png,Main
+data/Main/Tetsurou Kuroo.png,Main
+data/Supporting/Kayneth El-Melloi Archibald.png,Supporting
+data/Supporting/Reoko Banryuu.png,Supporting
+data/Supporting/Kouichi Nimura.png,Supporting
+data/Supporting/Hinaichigo.png,Supporting
+data/Supporting/Mami-chan's Father.png,Supporting
+data/Main/Ume Shiraume.png,Main
+data/Main/Mashiro Shiina.png,Main
+data/Main/Mako Nakarai.png,Main
+data/Main/Miyako Dokuutsugi.png,Main
+data/Supporting/Risa Kusunoki.png,Supporting
+data/Supporting/Kikuno Asahina.png,Supporting
+data/Main/Tomoyo Sakagami.png,Main
+data/Main/Oburi.png,Main
+data/Supporting/Wataru Itabashi.png,Supporting
+data/Main/Asbel Lhant.png,Main
+data/Main/Yuuko Sagiri.png,Main
+data/Supporting/Granny Tadokoro.png,Supporting
+data/Supporting/Aurea.png,Supporting
+data/Main/Aya Shirakaba.png,Main
+data/Main/Kare.png,Main
+data/Main/Tsume.png,Main
+data/Supporting/Blanc.png,Supporting
+data/Supporting/Kouichi Kita.png,Supporting
+data/Supporting/Hiroko Kaizuka.png,Supporting
+data/Main/Kintarou Masaka.png,Main
+data/Main/Joe Higashi.png,Main
+data/Main/Chururu.png,Main
+data/Supporting/Rara Chigusa.png,Supporting
+data/Supporting/Yukari Akiyama.png,Supporting
+data/Supporting/Shaotian Huang.png,Supporting
+data/Main/Jun Kenzaki.png,Main
+data/Main/Benares.png,Main
+data/Supporting/Yumi Morita.png,Supporting
+data/Main/Monaka Noguchi.png,Main
+data/Main/Ataru Moroboshi.png,Main
+data/Main/Ayase Aragaki.png,Main
+data/Supporting/Mutsumi Saburo.png,Supporting
+data/Main/Senzou Harumaki.png,Main
+data/Main/Mikleo.png,Main
+data/Main/Elenore Baker.png,Main
+data/Supporting/Meme.png,Supporting
+data/Main/Romina Ladorio.png,Main
+data/Main/Nozomu Kurisu.png,Main
+data/Main/Princess.png,Main
+data/Main/Rui.png,Main
+data/Main/Ibu Kirisaki.png,Main
+data/Supporting/Yuuki.png,Supporting
+data/Supporting/Ouji Kousaka.png,Supporting
+data/Main/Daisuke Komori.png,Main
+data/Main/Ippei Mine.png,Main
+data/Supporting/Manako Kawatou.png,Supporting
+data/Supporting/Yumemi Hoshino.png,Supporting
+data/Supporting/Long Long.png,Supporting
+data/Main/Takeru.png,Main
+data/Supporting/Umiko Ahagon.png,Supporting
+data/Main/Erika Kurumi.png,Main
+data/Main/Hibiki Kazaguruma.png,Main
+data/Supporting/Gash Bell.png,Supporting
+data/Supporting/Kayo.png,Supporting
+data/Main/Reiya Inou.png,Main
+data/Main/Kankichi Ryoutsu.png,Main
+data/Supporting/Takashi Haneda.png,Supporting
+data/Supporting/D'artagnan.png,Supporting
+data/Supporting/Shiki Mori.png,Supporting
+data/Supporting/Toshiki Kai.png,Supporting
+data/Supporting/Ted A. Adams.png,Supporting
+data/Main/Tomo.png,Main
+data/Main/Arthur Boyle.png,Main
+data/Supporting/Santong Guifu.png,Supporting
+data/Main/Kesshouban.png,Main
+data/Main/America.png,Main
+data/Supporting/Akage.png,Supporting
+data/Main/Yoshichika Tsurugi.png,Main
+data/Supporting/Youko Hinageshi.png,Supporting
+data/Supporting/Mai Kagura.png,Supporting
+data/Main/Akira Naitou.png,Main
+data/Supporting/Anise.png,Supporting
+data/Main/Belo.png,Main
+data/Main/Corina Solgente.png,Main
+data/Main/Tomoya Mizuhara.png,Main
+data/Main/Chapra.png,Main
+data/Supporting/Ryuunosuke Fujinami.png,Supporting
+data/Supporting/Jackie Gudelian.png,Supporting
+data/Supporting/Camus.png,Supporting
+data/Main/Medusa Gorgon.png,Main
+data/Main/Asuta Jimon.png,Main
+data/Supporting/Neil Gail.png,Supporting
+data/Supporting/Loerelei Loer.png,Supporting
+data/Supporting/Anno Jou.png,Supporting
+data/Main/Mio Minato.png,Main
+data/Main/Torby.png,Main
+data/Supporting/Kota Amano.png,Supporting
+data/Supporting/Kuroneko.png,Supporting
+data/Main/Masaru Hanashima.png,Main
+data/Main/Yuuki Amagase.png,Main
+data/Main/Hak Son.png,Main
+data/Main/Sakaki Inui.png,Main
+data/Main/Heracles.png,Main
+data/Supporting/Mika Motegi.png,Supporting
+data/Main/Isht Karin Orte.png,Main
+data/Supporting/Satoru Hani.png,Supporting
+data/Supporting/Monko Saotome.png,Supporting
+data/Main/Keita Ibuki.png,Main
+data/Supporting/Nanao Tachibana.png,Supporting
+data/Main/Hinohikari.png,Main
+data/Main/Relena Peacecraft.png,Main
+data/Main/Roger Smith.png,Main
+data/Supporting/Shinzaburou Aoyagi.png,Supporting
+data/Supporting/Marina Triton.png,Supporting
+data/Supporting/Megumi Sakura.png,Supporting
+data/Supporting/Mitsuko Asatani.png,Supporting
+data/Main/Sayaka Ogata.png,Main
+data/Main/Ikkou Satonaka.png,Main
+data/Supporting/Leila Barthes.png,Supporting
+data/Supporting/Mamoru Kodai.png,Supporting
+data/Supporting/Younger Sister.png,Supporting
+data/Main/Ichimaru.png,Main
+data/Supporting/Lua.png,Supporting
+data/Supporting/Dousetsu Kirisaki.png,Supporting
+data/Supporting/Megumi Kumashiro.png,Supporting
+data/Supporting/Nina Lindberg.png,Supporting
+data/Main/Reiji Kirio.png,Main
+data/Main/Kotoha Tanaka.png,Main
+data/Supporting/Busias Adoula.png,Supporting
+data/Main/Kyouhei Kuga.png,Main
+data/Supporting/Oyasan.png,Supporting
+data/Main/Baradagi Harataki.png,Main
+data/Main/Shinon Kouzuki.png,Main
+data/Main/Suzuko Kanzaki.png,Main
+data/Main/Waltrud Krupinski.png,Main
+data/Supporting/Nikka Edvardine Katajainen.png,Supporting
+data/Main/Kouhei Hasekura.png,Main
+data/Main/Zapp Renfro.png,Main
+data/Main/Yaoyao Li.png,Main
+data/Supporting/Nazo no Onna.png,Supporting
+data/Main/Hana Nono.png,Main
+data/Supporting/Riku Narita.png,Supporting
+data/Main/Nodoka Haramura.png,Main
+data/Supporting/Vera del Gnoni.png,Supporting
+data/Supporting/Genkirou Hikawa.png,Supporting
+data/Supporting/Fritz Glanz.png,Supporting
+data/Supporting/Reiko Katherine Akimoto.png,Supporting
+data/Supporting/Enki Gokuu.png,Supporting
+data/Main/Xuanliang Cao.png,Main
+data/Supporting/Bijin.png,Supporting
+data/Supporting/Honey.png,Supporting
+data/Main/Kata.png,Main
+data/Main/Eishirou Sugata.png,Main
+data/Supporting/Takashi Hinatsuru.png,Supporting
+data/Main/Xuan Tang.png,Main
+data/Supporting/Yamato Kurose.png,Supporting
+data/Main/Yoko Littner.png,Main
+data/Main/Ganzack.png,Main
+data/Supporting/Taiko Kasuga.png,Supporting
+data/Main/Tomoko Kuroki.png,Main
+data/Supporting/Big Saigou.png,Supporting
+data/Main/Kathleen Gregory.png,Main
+data/Main/Mizuha Ichikishima.png,Main
+data/Supporting/K. K..png,Supporting
+data/Main/China Kousaka.png,Main
+data/Main/Elma Hoyly.png,Main
+data/Supporting/Family Head Hyuuga.png,Supporting
+data/Main/Jyun.png,Main
+data/Supporting/Kazuha Kusunoki.png,Supporting
+data/Supporting/Rex Godwin.png,Supporting
+data/Main/Midoriko.png,Main
+data/Main/Akemi Nakajima.png,Main
+data/Main/Rin Asogi.png,Main
+data/Main/Fay Ryu Kazuhiko.png,Main
+data/Main/Zia.png,Main
+data/Supporting/Maruko Fujimura.png,Supporting
+data/Main/Hathaway Noa.png,Main
+data/Supporting/Addie.png,Supporting
+data/Supporting/Mirei Minai.png,Supporting
+data/Main/Kurumi Nonaka.png,Main
+data/Main/Lua.png,Main
+data/Main/Yuuma Gojou.png,Main
+data/Supporting/Suishou Hakamada.png,Supporting
+data/Main/Moritaka Mashiro.png,Main
+data/Main/Saki Hinase.png,Main
+data/Supporting/Ryou Akiyama.png,Supporting
+data/Supporting/Mother Sakurauchi.png,Supporting
+data/Supporting/AR-D.png,Supporting
+data/Supporting/Helmeppo.png,Supporting
+data/Main/Yukari Kohinata.png,Main
+data/Main/Hana Miyakoshi.png,Main
+data/Supporting/Pazu.png,Supporting
+data/Supporting/Yasaku Edogai.png,Supporting
+data/Supporting/Fook-chi.png,Supporting
+data/Main/Jeanne.png,Main
+data/Main/Momoka.png,Main
+data/Supporting/Saga Gemini.png,Supporting
+data/Supporting/Kotarou Enomoto.png,Supporting
+data/Main/Asami Kakinuma.png,Main
+data/Main/Canal Vorfeed.png,Main
+data/Main/Haruka Makino.png,Main
+data/Supporting/Shitoto Chandra.png,Supporting
+data/Main/Kai Hirose.png,Main
+data/Supporting/Enel.png,Supporting
+data/Supporting/Jun Kawanakajima.png,Supporting
+data/Supporting/Ach.png,Supporting
+data/Main/Aoi Mizusawa.png,Main
+data/Main/Ferry.png,Main
+data/Supporting/Kazutarou Dougou.png,Supporting
+data/Supporting/Amaterasu-Oomikami.png,Supporting
+data/Supporting/Bertolt Hoover.png,Supporting
+data/Supporting/Platia.png,Supporting
+data/Supporting/December.png,Supporting
+data/Main/Rei Oogami.png,Main
+data/Main/Mica Minazuki.png,Main
+data/Main/Yui Nemoto.png,Main
+data/Supporting/Cheol-ran.png,Supporting
+data/Supporting/Suzuka Dairenji.png,Supporting
+data/Main/Niko Niiyama.png,Main
+data/Main/Theiamillis Gre Fortorthe.png,Main
+data/Supporting/Shinako Morinome.png,Supporting
+data/Main/Buju.png,Main
+data/Supporting/Archie.png,Supporting
+data/Main/Yuka Mochida.png,Main
+data/Supporting/Borcuse.png,Supporting
+data/Supporting/Ryouko Asakura.png,Supporting
+data/Supporting/Ai's Sister.png,Supporting
+data/Supporting/Satsuki Kawamoto.png,Supporting
+data/Supporting/Chihiro Miyoshi.png,Supporting
+data/Main/Beecha Oleg.png,Main
+data/Supporting/Hikaru Kudou.png,Supporting
+data/Supporting/Ginger.png,Supporting
+data/Supporting/Satone Shichimiya.png,Supporting
+data/Supporting/Erica Candle.png,Supporting
+data/Supporting/Nora Floriann Leoria.png,Supporting
+data/Supporting/Kaoru Kaizuka.png,Supporting
+data/Main/Salt.png,Main
+data/Main/Sena Kashiwazaki.png,Main
+data/Main/Kirika Yuumura.png,Main
+data/Main/Ruhuyu.png,Main
+data/Supporting/Amy Anderson.png,Supporting
+data/Main/Fumika.png,Main
+data/Supporting/Aegis.png,Supporting
+data/Supporting/Kotori Otonashi.png,Supporting
+data/Main/Hikaru Ichihoshi.png,Main
+data/Supporting/Loewe.png,Supporting
+data/Main/Ureu Mono.png,Main
+data/Supporting/Frederick Algreus.png,Supporting
+data/Main/Taeko Nomura.png,Main
+data/Main/Sir Isaac Cavendish.png,Main
+data/Supporting/Barlow.png,Supporting
+data/Supporting/Ruriko Kuroyanagi.png,Supporting
+data/Supporting/Kakuzawa.png,Supporting
+data/Main/Sawako Machida.png,Main
+data/Main/Takumi Aldini.png,Main
+data/Main/Ryou Utsugi.png,Main
+data/Supporting/Jun Suzuki.png,Supporting
+data/Main/Yonekuni Madarame.png,Main
+data/Main/Amane Todoroki.png,Main
+data/Main/Megumi Fujiwara.png,Main
+data/Main/Chagum.png,Main
+data/Main/Rihito Hiyakawa.png,Main
+data/Main/Jin Kazama.png,Main
+data/Main/Ritsuka Takesaka.png,Main
+data/Supporting/Asaph.png,Supporting
+data/Main/Kunimitsu Tange.png,Main
+data/Supporting/Hina Kamishiro.png,Supporting
+data/Main/Noruda.png,Main
+data/Main/Jil.png,Main
+data/Supporting/Kazuaki Hirata.png,Supporting
+data/Main/Kaede Minami.png,Main
+data/Supporting/Father Adenauer.png,Supporting
+data/Supporting/Father Takanashi.png,Supporting
+data/Supporting/Takehiko Amagami.png,Supporting
+data/Supporting/Chess Belle.png,Supporting
+data/Main/Mirai Kasuga.png,Main
+data/Main/Gieve.png,Main
+data/Main/Asuka Takizawa.png,Main
+data/Supporting/Elfriede.png,Supporting
+data/Supporting/Lamp-ya no Shujin.png,Supporting
+data/Main/Asuna Watase.png,Main
+data/Main/Lola.png,Main
+data/Main/Tamaki Tsuru.png,Main
+data/Supporting/Father Katou.png,Supporting
+data/Supporting/Misaki Ichijouin.png,Supporting
+data/Supporting/Dr. Leonardo.png,Supporting
+data/Main/Tsukasa.png,Main
+data/Supporting/Frank Castle.png,Supporting
+data/Supporting/Aporia.png,Supporting
+data/Main/Takayuki Furuichi.png,Main
+data/Supporting/Nisu no Meo-Lubrum.png,Supporting
+data/Supporting/Miyashita.png,Supporting
+data/Main/Maya Natsume.png,Main
+data/Main/Tenar.png,Main
+data/Supporting/Bauks.png,Supporting
+data/Main/Iori Takamura.png,Main
+data/Supporting/Daichi Kitaumekawa.png,Supporting
+data/Main/Kevin Cecil.png,Main
+data/Main/Hacka Doll No.2.png,Main
+data/Main/Madoka Takatori.png,Main
+data/Supporting/Lilie Adean.png,Supporting
+data/Main/You Watanabe.png,Main
+data/Main/Haruto Fuwa.png,Main
+data/Main/Mimori Amamiya.png,Main
+data/Supporting/Rikirou Daiwa.png,Supporting
+data/Supporting/Doublas M2.png,Supporting
+data/Main/Yuu Shirakawa.png,Main
+data/Main/Reika Satou.png,Main
+data/Supporting/Nayuta Amakasu.png,Supporting
+data/Supporting/Kanau Kongou.png,Supporting
+data/Main/Hiyori Moritani.png,Main
+data/Supporting/Dyce.png,Supporting
+data/Supporting/OL.png,Supporting
+data/Supporting/Chiyo Kumasawa.png,Supporting
+data/Supporting/Jane Andrews.png,Supporting
+data/Supporting/Kouta Akutagawa.png,Supporting
+data/Supporting/Konatsu Hayase.png,Supporting
+data/Main/Mutsuki Tsuyama.png,Main
+data/Main/Hikaru Tsuki.png,Main
+data/Main/Kazuma Azuma.png,Main
+data/Main/Ysley.png,Main
+data/Supporting/Ryuu Achiya.png,Supporting
+data/Supporting/Joe Gibson.png,Supporting
+data/Supporting/Himari Takanashi.png,Supporting
+data/Main/Akari Himuro.png,Main
+data/Main/Yuri Fuyude.png,Main
+data/Main/Junko Konno.png,Main
+data/Supporting/Narumi Satonaka.png,Supporting
+data/Supporting/Ayumu Mitani.png,Supporting
+data/Main/Ame.png,Main
+data/Main/Natsumi.png,Main
+data/Supporting/Dogi.png,Supporting
+data/Main/Kojirou Fuuma.png,Main
+data/Main/Nabuca.png,Main
+data/Supporting/Chousou.png,Supporting
+data/Main/Inga.png,Main
+data/Main/Yoshitani.png,Main
+data/Main/Shinkurou Kurenai.png,Main
+data/Supporting/Lion.png,Supporting
+data/Main/Amaimon.png,Main
+data/Main/Miki Morita.png,Main
+data/Main/Aina Yoshiwara.png,Main
+data/Supporting/Midori Matsumura.png,Supporting
+data/Supporting/Aquarius.png,Supporting
+data/Main/Ryuuichi Kaizu.png,Main
+data/Main/Juna Ariyoshi.png,Main
+data/Main/Alita.png,Main
+data/Supporting/Aranaut.png,Supporting
+data/Supporting/Klaus von Reinherz.png,Supporting
+data/Main/Porthos.png,Main
+data/Supporting/Chobi-hige.png,Supporting
+data/Main/Saki Morimi.png,Main
+data/Main/Kouki Nitani.png,Main
+data/Main/Kagerou.png,Main
+data/Main/Tsugumi Aoba.png,Main
+data/Main/Yuina Machiya.png,Main
+data/Supporting/Hayato Akiyama.png,Supporting
+data/Main/Ichirou Tani.png,Main
+data/Main/Murza Melyn.png,Main
+data/Main/Isuka.png,Main
+data/Main/Danma Kuusou.png,Main
+data/Main/Ryuuta Kondou.png,Main
+data/Supporting/Noboru Taki.png,Supporting
+data/Main/Kensuke Ooshiba.png,Main
+data/Main/Ira.png,Main
+data/Supporting/Crow Hogan.png,Supporting
+data/Supporting/Johann Bauer.png,Supporting
+data/Main/Erika Sakurai.png,Main
+data/Main/Koyuki Ayase.png,Main
+data/Supporting/Shion.png,Supporting
+data/Main/Haruto Wolf.png,Main
+data/Main/Wakasa.png,Main
+data/Main/Komatsu.png,Main
+data/Main/Touka Miyashita.png,Main
+data/Supporting/Chizome Akaguro.png,Supporting
+data/Main/Hajime Ichinose.png,Main
+data/Supporting/Philip Gargantos Armstrong.png,Supporting
+data/Main/Mizuki Agatsuma.png,Main
+data/Supporting/Minori Chihara.png,Supporting
+data/Supporting/Urara Kasugano.png,Supporting
+data/Supporting/Baron Salamander.png,Supporting
+data/Main/Kanae Shinjou.png,Main
+data/Supporting/Koyori Ishizuki.png,Supporting
+data/Main/Irene Adler.png,Main
+data/Supporting/Arado Balanga.png,Supporting
+data/Supporting/Body Copy-Model.png,Supporting
+data/Supporting/Satomi Kiriya.png,Supporting
+data/Main/Atsuhi Henmi.png,Main
+data/Main/Kajika Louisa Kugami Burnsworth.png,Main
+data/Supporting/Wendy Marvell.png,Supporting
+data/Supporting/Valdes Himena.png,Supporting
+data/Main/Yuuto Kidou.png,Main
+data/Supporting/Yukari Ishiwatari.png,Supporting
+data/Main/Benio Adashino.png,Main
+data/Main/Ichika Watanuki.png,Main
+data/Supporting/Earth-chan.png,Supporting
+data/Supporting/Yukiya Amamiya.png,Supporting
+data/Main/Kiyono Amahara.png,Main
+data/Supporting/Takefumi Auchi.png,Supporting
+data/Main/Pico.png,Main
+data/Main/Sanae Nakazawa.png,Main
+data/Main/Toshikazu Fujimi.png,Main
+data/Main/Sugata Shindou.png,Main
+data/Supporting/Tomomi Kinoshita.png,Supporting
+data/Supporting/Shizuko Kaga.png,Supporting
+data/Main/Minato Takahashi.png,Main
+data/Main/Tsubasa Nishikiori.png,Main
+data/Main/Ryou Hattori.png,Main
+data/Supporting/Mikami Kuramitsu.png,Supporting
+data/Main/Sora Kashiwagi.png,Main
+data/Supporting/Amaimon.png,Supporting
+data/Main/Paprika.png,Main
+data/Main/Senra.png,Main
+data/Main/Mansaku Matsuura.png,Main
+data/Supporting/Seimei Abe no.png,Supporting
+data/Supporting/Saburouta Bandou.png,Supporting
+data/Main/Yoshiaki Mogami.png,Main
+data/Supporting/Tare Makimura.png,Supporting
+data/Main/Shuusui Kagami.png,Main
+data/Supporting/Mismis Klass.png,Supporting
+data/Supporting/American Delegate.png,Supporting
+data/Supporting/Gorou Honda.png,Supporting
+data/Supporting/Ralph Bowmers.png,Supporting
+data/Main/Thor.png,Main
+data/Supporting/Kazuma Aohara.png,Supporting
+data/Supporting/Simon Gant.png,Supporting
+data/Supporting/Kousaku Higashida.png,Supporting
+data/Supporting/Shigure Aotsuki.png,Supporting
+data/Main/Miyo Takano.png,Main
+data/Supporting/Morika.png,Supporting
+data/Supporting/Hishiyasu Ichikawa.png,Supporting
+data/Main/Aine Yuuki.png,Main
+data/Main/Akinori Arihoshi.png,Main
+data/Supporting/Duke Zaki.png,Supporting
+data/Main/Matsuri Honjou.png,Main
+data/Main/Ichirou Suzuki.png,Main
+data/Main/Charlotte E. Yeager.png,Main
+data/Supporting/Veronica Ananko.png,Supporting
+data/Supporting/Kakashi Hatake.png,Supporting
+data/Supporting/Belkens.png,Supporting
+data/Main/Nicol Ascart.png,Main
+data/Main/Anna Mochizuki.png,Main
+data/Main/Niino.png,Main
+data/Supporting/Rena Ashihara.png,Supporting
+data/Main/Kullweet Envatilia.png,Main
+data/Supporting/Kei Himuro.png,Supporting
+data/Main/Iwa.png,Main
+data/Supporting/Yukari Ootani.png,Supporting
+data/Supporting/Glenn Din.png,Supporting
+data/Main/Misora Hibiki.png,Main
+data/Main/Epsilon.png,Main
+data/Supporting/Mother Minami.png,Supporting
+data/Supporting/Hyui.png,Supporting
+data/Main/John Stalker.png,Main
+data/Main/Shinobu Morita.png,Main
+data/Supporting/Makoto Asada.png,Supporting
+data/Supporting/Jeremiah Gottwald.png,Supporting
+data/Supporting/Yuri Hoshigaoka.png,Supporting
+data/Main/Wise.png,Main
+data/Supporting/Marta.png,Supporting
+data/Main/Suzuko.png,Main
+data/Supporting/Eno.png,Supporting
+data/Main/Chie Satonaka.png,Main
+data/Main/Eri Kumagai.png,Main
+data/Supporting/Durel.png,Supporting
+data/Main/Nene Motoe.png,Main
+data/Supporting/Monaghan Bakharo.png,Supporting
+data/Main/Nagisa Shiota.png,Main
+data/Main/Lion-san.png,Main
+data/Supporting/Aimaru.png,Supporting
+data/Main/Sugar.png,Main
+data/Main/Touda.png,Main
+data/Supporting/Katsunori Harasawa.png,Supporting
+data/Supporting/Shouko Honnami.png,Supporting
+data/Main/Roxy.png,Main
+data/Supporting/Takurou Ishii.png,Supporting
+data/Main/Joe Gibson Jr..png,Main
+data/Supporting/Satoshi Habara.png,Supporting
