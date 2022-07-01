@@ -3,6 +3,18 @@
 This project is about analysing the correlations between visual and narrative features, with the medium of anime as an example.
 The project uses the results of Neural Network based classification and a human survey to compare the patterns found in both methods.
 
+The goal of the project is to better understand how humans and neural 
+networks compare in the task of classifying characters based purely on
+their character design, which patterns emerge from each group
+and how it relates to expectations associated with different 
+visual features. The knowledge from such an analysis can be used
+in the entertainment industry to help create character designs that follow
+(or purposefully subvert) audience expectations.
+
+Parts of this project, especially the classification neural network, could
+also possibly be used in automatic character generation, to combine
+narrative adn visual features in the generation parameters.
+
 In this repository you'll find code responsible for collecting labelled character images from the internet, 
 training a ResNet50 model on the calssificaiton task, running the human survey on Google Colab, and analysing and visualising the results.
 On top of that, you'll also find the original data used for the project.
