@@ -25,6 +25,7 @@ Every Notebook contains documentation about its purpose and about how to use and
 
 You can choose to just analyse the results of our experiments, 
 or to run your own, in which case you can either use our data or collect your own.
+You can find our trained weights [here](https://drive.google.com/file/d/1o737-P8PvCkMq6gF5nq2gGtoImzoWvZi/view?usp=sharing).
 
 ### Analysing our results
 
